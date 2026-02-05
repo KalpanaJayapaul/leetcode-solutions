@@ -9,3 +9,6 @@ My LeetCode problem solutions in Python
   - Technique: Expand Around Center  
   - Language: Python 
 
+- Zigzag Conversion  
+  - Technique: Simulation / Direction Tracking  
+  - Language: Python  
