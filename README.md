@@ -12,3 +12,7 @@ My LeetCode problem solutions in Python
 - Zigzag Conversion  
   - Technique: Simulation / Direction Tracking  
   - Language: Python  
+
+- String to Integer (atoi)  
+  - Technique: Parsing / Simulation  
+  - Language: Python  
