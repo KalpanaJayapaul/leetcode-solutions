@@ -15,4 +15,8 @@ My LeetCode problem solutions in Python
 
 - String to Integer (atoi)  
   - Technique: Parsing / Simulation  
-  - Language: Python  
+  - Language: Python
+ 
+- Regular Expression Matching  
+  - Technique: Dynamic Programming  
+  - Language: Python    
