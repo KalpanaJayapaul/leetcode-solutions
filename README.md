@@ -23,4 +23,9 @@ My LeetCode problem solutions in Python
     
 - Integer to Roman  
   - Technique: Greedy / Value Mapping  
+  - Language: Python
+
+- Roman to Integer  
+  - Technique: Greedy / Value Comparison  
   - Language: Python  
+    
