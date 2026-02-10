@@ -28,4 +28,7 @@ My LeetCode problem solutions in Python
 - Roman to Integer  
   - Technique: Greedy / Value Comparison  
   - Language: Python  
-    
+
+- Longest Common Prefix  
+  - Technique: Horizontal Scanning  
+  - Language: Python     
