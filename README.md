@@ -32,3 +32,7 @@ My LeetCode problem solutions in Python
 - Longest Common Prefix  
   - Technique: Horizontal Scanning  
   - Language: Python     
+
+- Letter Combinations of a Phone Number  
+  - Technique: Backtracking  
+  - Language: Python  
