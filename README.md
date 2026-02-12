@@ -36,3 +36,7 @@ My LeetCode problem solutions in Python
 - Letter Combinations of a Phone Number  
   - Technique: Backtracking  
   - Language: Python  
+
+- Valid Parentheses  
+  - Technique: Stack  
+  - Language: Python  
