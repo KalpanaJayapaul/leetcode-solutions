@@ -39,4 +39,8 @@ My LeetCode problem solutions in Python
 
 - Valid Parentheses  
   - Technique: Stack  
-  - Language: Python  
+  - Language: Python
+ 
+- Generate Parentheses  
+  - Technique: Backtracking  
+  - Language: Python    
