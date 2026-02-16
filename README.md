@@ -43,4 +43,9 @@ My LeetCode problem solutions in Python
  
 - Generate Parentheses  
   - Technique: Backtracking  
-  - Language: Python    
+  - Language: Python
+ 
+- Substring with Concatenation of All Words  
+  - Technique: Sliding Window + HashMap  
+  - Difficulty: Hard  
+  - Language: Python  
