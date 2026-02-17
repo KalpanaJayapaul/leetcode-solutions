@@ -47,5 +47,8 @@ My LeetCode problem solutions in Python
  
 - Substring with Concatenation of All Words  
   - Technique: Sliding Window + HashMap  
-  - Difficulty: Hard  
+  - Language: Python
+ 
+- Longest Valid Parentheses  
+  - Technique: Stack / Two-Pointer Scan  
   - Language: Python  
