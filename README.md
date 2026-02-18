@@ -52,3 +52,7 @@ My LeetCode problem solutions in Python
 - Longest Valid Parentheses  
   - Technique: Stack / Two-Pointer Scan  
   - Language: Python  
+
+- Count and Say  
+  - Technique: String Simulation (Run-Length Encoding)  
+  - Language: Python  
