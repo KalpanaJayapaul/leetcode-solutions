@@ -56,3 +56,7 @@ My LeetCode problem solutions in Python
 - Count and Say  
   - Technique: String Simulation (Run-Length Encoding)  
   - Language: Python  
+
+- Multiply Strings  
+  - Technique: Simulation / Grade-School Multiplication  
+  - Language: Python  
