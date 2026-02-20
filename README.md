@@ -59,4 +59,8 @@ My LeetCode problem solutions in Python
 
 - Multiply Strings  
   - Technique: Simulation / Grade-School Multiplication  
+  - Language: Python
+
+- Wildcard Matching  
+  - Technique: Greedy + Two Pointers (Backtracking on '*')  
   - Language: Python  
