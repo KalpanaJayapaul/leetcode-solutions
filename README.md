@@ -20,6 +20,10 @@ My LeetCode problem solutions in Python
 - Regular Expression Matching  
   - Technique: Dynamic Programming  
   - Language: Python
+ 
+- Group Anagrams  
+  - Technique: HashMap + Sorting / Character Counting  
+  - Language: Python  
     
 - Integer to Roman  
   - Technique: Greedy / Value Mapping  
