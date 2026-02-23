@@ -67,4 +67,8 @@ My LeetCode problem solutions in Python
 
 - Wildcard Matching  
   - Technique: Greedy + Two Pointers (Backtracking on '*')  
-  - Language: Python  
+  - Language: Python
+ 
+- Length of last word
+  - Technique: String Traversal
+  - Language: Python
