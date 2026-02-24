@@ -72,3 +72,7 @@ My LeetCode problem solutions in Python
 - Length of last word
   - Technique: String Traversal
   - Language: Python
+ 
+- Valid Number  
+  - Technique: String Parsing / State Tracking  
+  - Language: Python   
