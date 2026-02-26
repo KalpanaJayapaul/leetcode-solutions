@@ -76,3 +76,11 @@ My LeetCode problem solutions in Python
 - Valid Number  
   - Technique: String Parsing / State Tracking  
   - Language: Python   
+
+- Add Binary  
+  - Technique: Two Pointers + Carry Simulation  
+  - Language: Python
+    
+- Text Justification  
+  - Technique: Greedy + String Simulation  
+  - Language: Python  
