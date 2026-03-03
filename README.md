@@ -83,4 +83,8 @@ My LeetCode problem solutions in Python
     
 - Text Justification  
   - Technique: Greedy + String Simulation  
+  - Language: Python
+    
+- Simplify Path  
+  - Technique: Stack + String Parsing  
   - Language: Python  
