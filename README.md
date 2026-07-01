@@ -87,4 +87,8 @@ My LeetCode problem solutions in Python
     
 - Simplify Path  
   - Technique: Stack + String Parsing  
-  - Language: Python  
+  - Language: Python
+ 
+  - Edit Distance
+  - Technique: Dynamic Programming (2D DP)
+  - Language: Python
