@@ -96,3 +96,7 @@ My LeetCode problem solutions in Python
   - Minimum Window Substring
   - Technique: Sliding Window + HashMap
   - Language: Python
+ 
+  - Word Search
+  - Technique: Backtracking (DFS)
+  - Language: Python
