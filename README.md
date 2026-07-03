@@ -100,3 +100,7 @@ My LeetCode problem solutions in Python
   - Word Search
   - Technique: Backtracking (DFS)
   - Language: Python
+ 
+  - Scramble String
+  - Technique: Recursion + Memoization (Dynamic Programming)
+  - Language: Python
