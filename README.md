@@ -104,3 +104,11 @@ My LeetCode problem solutions in Python
   - Scramble String
   - Technique: Recursion + Memoization (Dynamic Programming)
   - Language: Python
+ 
+  - Decode Ways
+  - Technique: Dynamic Programming
+  - Language: Python
+ 
+  - Restore IP Addresses
+  - Technique: Backtracking
+  - Language: Python
