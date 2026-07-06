@@ -116,3 +116,7 @@ My LeetCode problem solutions in Python
   - Interleaving String
   - Technique: Dynamic Programming (2D DP)
   - Language: Python
+ 
+  - Distinct Subsequences
+  - Technique: Dynamic Programming (2D DP)
+  - Language: C++
