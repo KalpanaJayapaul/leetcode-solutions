@@ -2,8 +2,7 @@
 My LeetCode problem solutions in Python
 
 - Longest Substring Without Repeating Characters  
-  - Technique: Sliding Window  
-  - Language: Python
+  - 
  
 - Longest Palindromic Substring  
   - Technique: Expand Around Center  
@@ -124,3 +123,7 @@ My LeetCode problem solutions in Python
   - Interleaving String
   - Technique: Dynamic Programming (2D DP)
   - Language: Python
+
+  - Longest Palindromic Substring  
+  - Technique: Expand Around Center  
+  - Language: Python 
