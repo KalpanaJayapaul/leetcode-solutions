@@ -126,4 +126,7 @@ My LeetCode problem solutions in Python
 
   - Longest Palindromic Substring  
   - Technique: Expand Around Center  
-  - Language: Python 
+  - Language: Python
+ 
+  - Technique: Expand Around Center  
+  - Language: Python
